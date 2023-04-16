@@ -1,3 +1,3 @@
-[submodule "dist"]
-    path = dist
-    url = git://github.com/ametanishant/repo.git
+[submodule "themes/hugo-geekdoc"]
+    path = themes/hugo-geekdoc
+    url = https://github.com/thegeeklab/hugo-geekdoc.git
