@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://ametanishant.github.io/newstack/"
 title = "Geekdocs"
 theme = "hugo-geekdoc"
 
