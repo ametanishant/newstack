@@ -1,11 +1,11 @@
 ---
-title: TMC SRE Handbook
+title: Hawkeye SRE Handbook
 ---
 
 ## About
 
-Welcome to the TMC SRE handbook site! This site contains various documentation used
-by the TMC SRE team.
+Welcome to the Hawkeye SRE handbook site! This site contains various documentation used
+by the Hawkeye SRE team.
 
 ## Getting started
 
@@ -15,7 +15,7 @@ documentation you are looking for.
 ## Adding Documentation
 
 The content on this site is stored as markdown files in the
-[sre-handbook](https://gitlab.eng.vmware.com/cnabu-sre/sre-handbook) repository
+[sre-handbook](Repository - Links???) repository
 and is rendered using [hugo](https://gohugo.io)
 
 ### Install Hugo
@@ -33,7 +33,7 @@ brew install hugo
 Next, clone the repo:
 
 ```shell
-git clone git@gitlab.eng.vmware.com:cnabu-sre/sre-handbook.git
+git clone (git Link???)
 ```
 
 ### Add new content
@@ -72,7 +72,7 @@ therefore you can continue updating the file while this is running
 
 For the page to become active on the site, you should first ensure that the
 `draft` front matter is set to `false`. Then [create a merge/pull
-request](https://gitlab.eng.vmware.com/cnabu-sre/sre-handbook/merge_requests/new)
+request](Github links merge_requests/new)
 with your changes.
 
 Once changes are merged into the main branch, a gitlab pipeline will run to
