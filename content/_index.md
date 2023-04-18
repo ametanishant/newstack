@@ -33,7 +33,7 @@ brew install hugo
 Next, clone the repo:
 
 ```shell
-git clone (git Link???)
+git clone https://github.com/ametanishant/newstack.git
 ```
 
 ### Add new content
@@ -72,7 +72,7 @@ therefore you can continue updating the file while this is running
 
 For the page to become active on the site, you should first ensure that the
 `draft` front matter is set to `false`. Then [create a merge/pull
-request](Github links merge_requests/new)
+request](https://gitlab.eng.vmware.com/cnabu-sre/sre-handbook/merge_requests/new)
 with your changes.
 
 Once changes are merged into the main branch, a gitlab pipeline will run to
