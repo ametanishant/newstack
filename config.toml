@@ -1,6 +1,8 @@
+[[menu.main]]
 baseURL = "https://ametanishant.github.io/newstack/"
 title = "Hawkeye-Sre-RunBook"
 theme = "hugo-geekdoc"
+admins = []
 
 # Geekdoc - Required to get well formatted code blocks
 pygmentsUseClasses = true
